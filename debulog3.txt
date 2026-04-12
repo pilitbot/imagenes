@@ -1,0 +1,305 @@
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:06:53 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:06:54 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:06:54 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:06:54 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:06:55 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:06:56 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:06:56 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:06:56 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:06:56 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:06:56 UTC] [QPH-ESB] add_submenu via after_mec_submenu_action
+[12-Apr-2026 01:07:07 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:07 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:07 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:07 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:08 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:08 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:08 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:08 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:09 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:09 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:09 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:09 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:11 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:11 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:11 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:11 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:12 UTC] [QPH-ESB] add_submenu via after_mec_submenu_action
+[12-Apr-2026 01:07:12 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Title
+[12-Apr-2026 01:07:12 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Date
+[12-Apr-2026 01:07:12 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Time
+[12-Apr-2026 01:07:12 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Location
+[12-Apr-2026 01:07:12 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Cost
+[12-Apr-2026 01:07:12 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Organizer
+[12-Apr-2026 01:07:12 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Content
+[12-Apr-2026 01:07:12 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Image
+[12-Apr-2026 01:07:12 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Category
+[12-Apr-2026 01:07:12 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Map
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Usando canvas de Elementor para mec_esb
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Title
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Date
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Time
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Location
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Cost
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Organizer
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Content
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Image
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Category
+[12-Apr-2026 01:07:13 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Map
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Title
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Date
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Time
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Location
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Cost
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Organizer
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Content
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Image
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Category
+[12-Apr-2026 01:07:14 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Map
+[12-Apr-2026 01:07:15 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:15 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:15 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:15 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:16 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:17 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:17 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:17 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:17 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:28 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:28 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:28 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:29 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:29 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:29 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:29 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:29 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:35 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:35 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:35 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:35 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:38 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:44 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:44 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:44 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:44 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:45 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:45 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:45 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:45 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:46 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:46 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:46 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:46 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:49 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:49 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:49 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:50 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:53 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:53 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:53 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:53 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:57 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:57 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:57 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:57 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:07:59 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:07:59 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:07:59 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:07:59 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Title
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Date
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Time
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Location
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Cost
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Organizer
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Content
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Image
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Category
+[12-Apr-2026 01:08:00 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Map
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Title
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Date
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Time
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Location
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Cost
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Organizer
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Content
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Image
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Category
+[12-Apr-2026 01:08:01 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Map
+[12-Apr-2026 01:08:03 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:03 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:03 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:03 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:03 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:03 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:03 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:03 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:08 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:08 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:08 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:08 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:08 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:08 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:08 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:08 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:19 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:19 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:19 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:19 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:19 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:19 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:19 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:19 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:23 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:23 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:23 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:23 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:23 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:23 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:23 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:23 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] add_submenu via after_mec_submenu_action
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Title
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Date
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Time
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Location
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Cost
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Organizer
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Content
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Image
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Category
+[12-Apr-2026 01:08:28 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Map
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:30 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:31 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:31 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:31 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:31 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:31 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:31 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Title
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Date
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Time
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Location
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Cost
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Organizer
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Content
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Image
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Category
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Map
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Usando canvas de Elementor para mec_esb
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Title
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Date
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Time
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Location
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Cost
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Organizer
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Content
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Image
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Category
+[12-Apr-2026 01:08:32 UTC] [QPH-ESB] Widget registrado: QPH_ESB_Widget_Map
+[12-Apr-2026 01:08:34 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:34 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:34 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:35 UTC] [QPH-ESB] CPT mec_esb registrado
+[12-Apr-2026 01:08:36 UTC] [QPH-ESB] === QPH ESB v3.4.0 Init ===
+[12-Apr-2026 01:08:36 UTC] [QPH-ESB] Dependencias OK
+[12-Apr-2026 01:08:36 UTC] [QPH-ESB] Hooks registrados OK
+[12-Apr-2026 01:08:36 UTC] [QPH-ESB] CPT mec_esb registrado
