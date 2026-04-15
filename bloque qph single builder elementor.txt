@@ -1,0 +1,32 @@
+                                                bloque "qph single builder elementor  "                                                  
+
+<div class="mec-col-9">
+                                                                                <select id="mec_settings_single_event_single_style" name="mec[settings][single_single_style]">
+                                            <option value="default" selected="selected">Default Style</option>
+                                            <option value="modern">Modern Style</option>
+                                                                                                                                                                            <option value="builder">QPH Single Builder (Elementor)</option></select>
+                                        <span class="mec-tooltip">
+                                            <div class="box left">
+                                                <h5 class="title">Single Event Style</h5>
+                                                <div class="content"><p>Choose the single event page style.<a href="https://webnus.net/dox/modern-events-calendar/single-event-settings/#3-_Single_Event_Style/" target="_blank">Read More</a></p></div>
+                                            </div>
+                                            <i title="" class="dashicons-before dashicons-editor-help"></i>
+                                        </span>
+                                    </div>
+
+                                      bloque "elementor single builder"
+<div class="mec-col-9">
+                                                                                <select id="mec_settings_single_event_single_style" name="mec[settings][single_single_style]">
+                                            <option value="default">Default Style</option>
+                                            <option value="modern">Modern Style</option>
+                                                                                                                                    <option value="builder" selected="selected">Elementor Single Builder</option>
+                                                                                                                                </select>
+                                        <span class="mec-tooltip">
+                                            <div class="box left">
+                                                <h5 class="title">Single Event Style</h5>
+                                                <div class="content"><p>Choose the single event page style.<a href="https://webnus.net/dox/modern-events-calendar/single-event-settings/#3-_Single_Event_Style/" target="_blank">Read More</a></p></div>
+                                            </div>
+                                            <i title="" class="dashicons-before dashicons-editor-help"></i>
+                                        </span>
+                                    </div>
+
