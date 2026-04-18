@@ -1,0 +1,76 @@
+Uncaught Error: Class "QPH_MEC_Single_Builder\Widgets\ESB_Base" not found
+in /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-category.php on line 6
+
+Call stack:
+
+require_once()
+wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/class-elementor-esb.php:172
+QPH_MEC_Single_Builder\Admin\Elementor_ESB::register_widget()
+wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/class-elementor-esb.php:160
+QPH_MEC_Single_Builder\Admin\Elementor_ESB::init_widgets()
+wp-includes/class-wp-hook.php:341
+WP_Hook::apply_filters()
+wp-includes/class-wp-hook.php:365
+WP_Hook::do_action()
+wp-includes/plugin.php:522
+do_action()
+wp-content/plugins/elementor/includes/managers/widgets.php:159
+Elementor\Widgets_Manager::init_widgets()
+wp-content/plugins/elementor/includes/managers/widgets.php:358
+Elementor\Widgets_Manager::get_widget_types()
+wp-content/plugins/elementor-pro/modules/global-widget/module.php:59
+ElementorPro\Modules\GlobalWidget\Module::add_templates_localize_data()
+wp-includes/class-wp-hook.php:341
+WP_Hook::apply_filters()
+wp-includes/plugin.php:205
+apply_filters()
+wp-content/plugins/elementor-pro/core/editor/editor.php:78
+ElementorPro\Core\Editor\Editor::get_init_settings()
+wp-content/plugins/elementor/core/base/base-object.php:143
+Elementor\Core\Base\Base_Object::ensure_settings()
+wp-content/plugins/elementor/core/base/base-object.php:40
+Elementor\Core\Base\Base_Object::get_settings()
+wp-content/plugins/elementor/core/base/app.php:36
+Elementor\Core\Base\App::print_config()
+wp-content/plugins/elementor-pro/core/editor/editor.php:110
+ElementorPro\Core\Editor\Editor::enqueue_editor_scripts()
+wp-includes/class-wp-hook.php:341
+WP_Hook::apply_filters()
+wp-includes/class-wp-hook.php:365
+WP_Hook::do_action()
+wp-includes/plugin.php:522
+do_action()
+wp-content/plugins/elementor/core/editor/editor.php:350
+Elementor\Core\Editor\Editor::enqueue_scripts()
+wp-includes/class-wp-hook.php:341
+WP_Hook::apply_filters()
+wp-includes/class-wp-hook.php:365
+WP_Hook::do_action()
+wp-includes/plugin.php:522
+do_action()
+wp-includes/script-loader.php:2311
+wp_enqueue_scripts()
+wp-includes/class-wp-hook.php:341
+WP_Hook::apply_filters()
+wp-includes/class-wp-hook.php:365
+WP_Hook::do_action()
+wp-includes/plugin.php:522
+do_action()
+wp-includes/general-template.php:3197
+wp_head()
+wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php:35
+include('/home/u157105617/dom...s/editor-wrapper.php')
+wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php:222
+Elementor\Core\Editor\Loader\V2\Editor_V2_Loader::print_root_template()
+wp-content/plugins/elementor/core/editor/editor.php:160
+Elementor\Core\Editor\Editor::init()
+wp-includes/class-wp-hook.php:341
+WP_Hook::apply_filters()
+wp-includes/class-wp-hook.php:365
+WP_Hook::do_action()
+wp-includes/plugin.php:522
+do_action()
+wp-admin/admin.php:424
+require_once('/home/u157105617/dom...l/wp-admin/admin.php')
+wp-admin/post.php:12
+Query Monitor
