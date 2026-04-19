@@ -1,20 +1,20 @@
-Uncaught Error: Class "QPH_MEC_Single_Builder\Widgets\ESB_Base" not found
-in /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-category.php on line 6
+Uncaught Error: get_class(): Argument #1 ($object) must be of type object, null given
+in /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/class-elementor-esb.php on line 443
 
 Call stack:
 
-require_once()
-wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/class-elementor-esb.php:172
-QPH_MEC_Single_Builder\Admin\Elementor_ESB::register_widget()
-wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/class-elementor-esb.php:160
-QPH_MEC_Single_Builder\Admin\Elementor_ESB::init_widgets()
+get_class()
+wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/class-elementor-esb.php:443
+QPH_MEC_Single_Builder\Admin\Elementor_ESB::init_widgets_legacy()
 wp-includes/class-wp-hook.php:341
 WP_Hook::apply_filters()
 wp-includes/class-wp-hook.php:365
 WP_Hook::do_action()
-wp-includes/plugin.php:522
-do_action()
-wp-content/plugins/elementor/includes/managers/widgets.php:159
+wp-includes/plugin.php:570
+do_action_ref_array()
+wp-content/plugins/elementor/modules/dev-tools/deprecation.php:328
+Elementor\Modules\DevTools\Deprecation::do_deprecated_action()
+wp-content/plugins/elementor/includes/managers/widgets.php:143
 Elementor\Widgets_Manager::init_widgets()
 wp-content/plugins/elementor/includes/managers/widgets.php:358
 Elementor\Widgets_Manager::get_widget_types()
