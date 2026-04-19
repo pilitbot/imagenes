@@ -1,46 +1,30 @@
-Uncaught Error: get_class(): Argument #1 ($object) must be of type object, null given
-in /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/class-elementor-esb.php on line 443
+Uncaught Exception: DateTimeZone::__construct(): Unknown or bad timezone (global)
+in /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-local-time.php on line 35
 
 Call stack:
 
-get_class()
-wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/class-elementor-esb.php:443
-QPH_MEC_Single_Builder\Admin\Elementor_ESB::init_widgets_legacy()
-wp-includes/class-wp-hook.php:341
-WP_Hook::apply_filters()
-wp-includes/class-wp-hook.php:365
-WP_Hook::do_action()
-wp-includes/plugin.php:570
-do_action_ref_array()
-wp-content/plugins/elementor/modules/dev-tools/deprecation.php:328
-Elementor\Modules\DevTools\Deprecation::do_deprecated_action()
-wp-content/plugins/elementor/includes/managers/widgets.php:143
-Elementor\Widgets_Manager::init_widgets()
-wp-content/plugins/elementor/includes/managers/widgets.php:358
-Elementor\Widgets_Manager::get_widget_types()
-wp-content/plugins/elementor-pro/modules/global-widget/module.php:59
-ElementorPro\Modules\GlobalWidget\Module::add_templates_localize_data()
-wp-includes/class-wp-hook.php:341
-WP_Hook::apply_filters()
-wp-includes/plugin.php:205
-apply_filters()
-wp-content/plugins/elementor-pro/core/editor/editor.php:78
-ElementorPro\Core\Editor\Editor::get_init_settings()
-wp-content/plugins/elementor/core/base/base-object.php:143
-Elementor\Core\Base\Base_Object::ensure_settings()
-wp-content/plugins/elementor/core/base/base-object.php:40
-Elementor\Core\Base\Base_Object::get_settings()
-wp-content/plugins/elementor/core/base/app.php:36
-Elementor\Core\Base\App::print_config()
-wp-content/plugins/elementor-pro/core/editor/editor.php:110
-ElementorPro\Core\Editor\Editor::enqueue_editor_scripts()
-wp-includes/class-wp-hook.php:341
-WP_Hook::apply_filters()
-wp-includes/class-wp-hook.php:365
-WP_Hook::do_action()
-wp-includes/plugin.php:522
-do_action()
-wp-content/plugins/elementor/core/editor/editor.php:350
+DateTimeZone::__construct()
+wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-local-time.php:35
+QPH_MEC_Single_Builder\Widgets\ESB_Local_Time::render()
+wp-content/plugins/elementor/includes/base/controls-stack.php:2374
+Elementor\Controls_Stack::render_by_mode()
+wp-content/plugins/elementor/includes/base/widget-base.php:636
+Elementor\Widget_Base::render_content()
+wp-content/plugins/elementor/includes/base/widget-base.php:757
+Elementor\Widget_Base::get_raw_data()
+wp-content/plugins/elementor/includes/base/element-base.php:629
+Elementor\Element_Base::get_raw_data()
+wp-content/plugins/elementor/core/base/document.php:1105
+Elementor\Core\Base\Document::get_elements_raw_data()
+wp-content/plugins/elementor/core/base/document.php:738
+Elementor\Core\Base\Document::get_initial_config()
+wp-content/plugins/elementor/includes/base/controls-stack.php:1071
+Elementor\Controls_Stack::get_config()
+wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php:40
+Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php:172
+Elementor\Core\Editor\Loader\V2\Editor_V2_Loader::enqueue_scripts()
+wp-content/plugins/elementor/core/editor/editor.php:355
 Elementor\Core\Editor\Editor::enqueue_scripts()
 wp-includes/class-wp-hook.php:341
 WP_Hook::apply_filters()
