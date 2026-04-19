@@ -1,117 +1,111 @@
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] init_widgets_legacy called.
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] init_widgets called with manager: Elementor\Widgets_Manager
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Title
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Category
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Widget file not found: /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-cancellation.php
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Widget class not found after require: \QPH_MEC_Single_Builder\Widgets\ESB_Cancellation
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Breadcrumbs
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Booking
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Banner
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Attendees
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Featured_Image
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Export
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Event_Gallery
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Date
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Countdown
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cost
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Location
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Local_Time
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Label
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hourly_Schedule
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_GoogleMap
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Custom_Data
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Public_Download
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Organizer
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Nxt_Prv
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Next_Pervious
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_More_Info
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Faq
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Widget file not found: /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-register-button.php
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Widget class not found after require: \QPH_MEC_Single_Builder\Widgets\ESB_Register_Button
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_QR
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Speaker
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zoom_Event
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Weather
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Virtual_Event
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Trailer_URL
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Tags
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] Widgets bootstrap completed.
-[19-Apr-2026 17:04:41 UTC] [QPH ESB] init_widgets skipped: widgets already bootstrapped.
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] init_widgets_legacy called.
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] init_widgets called with manager: Elementor\Widgets_Manager
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Title
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Category
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Widget file not found: /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-cancellation.php
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Widget class not found after require: \QPH_MEC_Single_Builder\Widgets\ESB_Cancellation
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Breadcrumbs
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Booking
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Banner
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Attendees
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Featured_Image
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Export
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Event_Gallery
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Date
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Countdown
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cost
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Location
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Local_Time
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Label
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hourly_Schedule
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_GoogleMap
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Custom_Data
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Public_Download
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Organizer
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Nxt_Prv
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Next_Pervious
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_More_Info
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Faq
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Widget file not found: /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-register-button.php
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Widget class not found after require: \QPH_MEC_Single_Builder\Widgets\ESB_Register_Button
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_QR
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Speaker
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zoom_Event
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Weather
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Virtual_Event
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Trailer_URL
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Tags
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] Widgets bootstrap completed.
-[19-Apr-2026 17:04:45 UTC] [QPH ESB] init_widgets skipped: widgets already bootstrapped.
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] init_widgets_legacy called.
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] init_widgets called with manager: Elementor\Widgets_Manager
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Title
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Category
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Widget file not found: /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-cancellation.php
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Widget class not found after require: \QPH_MEC_Single_Builder\Widgets\ESB_Cancellation
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Breadcrumbs
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Booking
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Banner
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Attendees
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Featured_Image
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Export
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Event_Gallery
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Date
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Countdown
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cost
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Location
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Local_Time
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Label
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hourly_Schedule
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_GoogleMap
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Custom_Data
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Public_Download
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Organizer
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Nxt_Prv
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Next_Pervious
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_More_Info
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Faq
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Widget file not found: /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-register-button.php
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Widget class not found after require: \QPH_MEC_Single_Builder\Widgets\ESB_Register_Button
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_QR
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Speaker
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zoom_Event
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Weather
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Virtual_Event
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Trailer_URL
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Tags
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] Widgets bootstrap completed.
-[19-Apr-2026 17:04:46 UTC] [QPH ESB] init_widgets skipped: widgets already bootstrapped.
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] init_widgets_legacy called.
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] init_widgets called with manager: Elementor\Widgets_Manager
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Title
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Category
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cancellation
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Breadcrumbs
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Booking
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Banner
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Attendees
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Featured_Image
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Export
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Event_Gallery
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Date
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Countdown
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cost
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Location
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Local_Time
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Label
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hourly_Schedule
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_GoogleMap
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Custom_Data
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Public_Download
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Organizer
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Nxt_Prv
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Next_Pervious
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_More_Info
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Faq
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Register_Button
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_QR
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Speaker
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zoom_Event
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Weather
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Virtual_Event
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Trailer_URL
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Tags
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] Widgets bootstrap completed.
+[19-Apr-2026 18:07:41 UTC] [QPH ESB] init_widgets skipped: widgets already bootstrapped.
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] init_widgets_legacy called.
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] init_widgets called with manager: Elementor\Widgets_Manager
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Title
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Category
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cancellation
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Breadcrumbs
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Booking
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Banner
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Attendees
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Featured_Image
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Export
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Event_Gallery
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Date
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Countdown
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cost
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Location
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Local_Time
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Label
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hourly_Schedule
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_GoogleMap
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Custom_Data
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Public_Download
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Organizer
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Nxt_Prv
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Next_Pervious
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_More_Info
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Faq
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Register_Button
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_QR
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Speaker
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zoom_Event
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Weather
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Virtual_Event
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Trailer_URL
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Tags
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] Widgets bootstrap completed.
+[19-Apr-2026 18:07:44 UTC] [QPH ESB] init_widgets skipped: widgets already bootstrapped.
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] init_widgets_legacy called.
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] init_widgets called with manager: Elementor\Widgets_Manager
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Title
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Category
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cancellation
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Breadcrumbs
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Booking
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Banner
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Attendees
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Featured_Image
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Export
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Event_Gallery
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Date
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Countdown
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cost
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Location
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Local_Time
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Label
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hourly_Schedule
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_GoogleMap
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Custom_Data
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Public_Download
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Organizer
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Nxt_Prv
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Next_Pervious
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_More_Info
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Faq
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Register_Button
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_QR
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Speaker
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zoom_Event
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Weather
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Virtual_Event
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Trailer_URL
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Tags
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] Widgets bootstrap completed.
+[19-Apr-2026 18:07:45 UTC] [QPH ESB] init_widgets skipped: widgets already bootstrapped.
