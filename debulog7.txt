@@ -1,4 +1,4 @@
-[21-Apr-2026 02:22:40 UTC] MEC_OPTIONS: Array
+[21-Apr-2026 03:17:22 UTC] MEC_OPTIONS: Array
 (
     [settings] => Array
         (
@@ -738,9 +738,9 @@
     [single_style] => builder
 )
 
-[21-Apr-2026 02:22:40 UTC] EVENT_STYLE_META: 
-[21-Apr-2026 02:22:40 UTC] EVENT_SINGLE_DESIGN_PAGE: 
-[21-Apr-2026 02:22:44 UTC] MEC_OPTIONS: Array
+[21-Apr-2026 03:17:22 UTC] EVENT_STYLE_META: 
+[21-Apr-2026 03:17:22 UTC] EVENT_SINGLE_DESIGN_PAGE: 
+[21-Apr-2026 03:17:28 UTC] MEC_OPTIONS: Array
 (
     [settings] => Array
         (
@@ -1480,9 +1480,9 @@
     [single_style] => builder
 )
 
-[21-Apr-2026 02:22:44 UTC] EVENT_STYLE_META: 
-[21-Apr-2026 02:22:44 UTC] EVENT_SINGLE_DESIGN_PAGE: 
-[21-Apr-2026 02:22:46 UTC] MEC_OPTIONS: Array
+[21-Apr-2026 03:17:28 UTC] EVENT_STYLE_META: 
+[21-Apr-2026 03:17:28 UTC] EVENT_SINGLE_DESIGN_PAGE: 
+[21-Apr-2026 03:17:31 UTC] MEC_OPTIONS: Array
 (
     [settings] => Array
         (
@@ -2222,9 +2222,9 @@
     [single_style] => builder
 )
 
-[21-Apr-2026 02:22:46 UTC] EVENT_STYLE_META: 
-[21-Apr-2026 02:22:46 UTC] EVENT_SINGLE_DESIGN_PAGE: 
-[21-Apr-2026 02:22:46 UTC] MEC_OPTIONS: Array
+[21-Apr-2026 03:17:31 UTC] EVENT_STYLE_META: 
+[21-Apr-2026 03:17:31 UTC] EVENT_SINGLE_DESIGN_PAGE: 
+[21-Apr-2026 03:17:31 UTC] MEC_OPTIONS: Array
 (
     [settings] => Array
         (
@@ -2964,9 +2964,10 @@
     [single_style] => builder
 )
 
-[21-Apr-2026 02:22:46 UTC] EVENT_STYLE_META: 
-[21-Apr-2026 02:22:46 UTC] EVENT_SINGLE_DESIGN_PAGE: 
-[21-Apr-2026 02:22:47 UTC] MEC_OPTIONS: Array
+[21-Apr-2026 03:17:31 UTC] EVENT_STYLE_META: 
+[21-Apr-2026 03:17:31 UTC] EVENT_SINGLE_DESIGN_PAGE: 
+[21-Apr-2026 03:17:34 UTC] ✅ qph_onboarding_page_script SE ESTÁ EJECUTANDO
+[21-Apr-2026 03:17:36 UTC] MEC_OPTIONS: Array
 (
     [settings] => Array
         (
@@ -3706,95 +3707,9 @@
     [single_style] => builder
 )
 
-[21-Apr-2026 02:22:47 UTC] EVENT_STYLE_META: 
-[21-Apr-2026 02:22:47 UTC] EVENT_SINGLE_DESIGN_PAGE: 
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] init_widgets_legacy called.
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] init_widgets called with manager: Elementor\Widgets_Manager
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Title
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Category
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cancellation
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Breadcrumbs
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Booking
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Banner
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Attendees
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Featured_Image
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Export
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Event_Gallery
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Date
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Countdown
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cost
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Location
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Local_Time
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Label
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hourly_Schedule
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_GoogleMap
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Custom_Data
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Public_Download
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Organizer
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Nxt_Prv
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Next_Pervious
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_More_Info
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Faq
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Register_Button
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_QR
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Speaker
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zoom_Event
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Weather
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Virtual_Event
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Trailer_URL
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Tags
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Lugar_Establecimiento
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Limite_Edad
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zona_Barrio
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hour
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Municipio_Ciudad
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Post_Content
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] Widgets bootstrap completed.
-[21-Apr-2026 02:22:47 UTC] [QPH ESB] init_widgets skipped: widgets already bootstrapped.
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] init_widgets_legacy called.
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] init_widgets called with manager: Elementor\Widgets_Manager
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Title
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Category
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cancellation
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Breadcrumbs
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Booking
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Banner
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Attendees
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Featured_Image
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Export
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Event_Gallery
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Date
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Countdown
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cost
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Location
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Local_Time
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Label
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hourly_Schedule
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_GoogleMap
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Custom_Data
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Public_Download
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Organizer
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Nxt_Prv
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Next_Pervious
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_More_Info
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Faq
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Register_Button
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_QR
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Speaker
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zoom_Event
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Weather
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Virtual_Event
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Trailer_URL
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Tags
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Lugar_Establecimiento
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Limite_Edad
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zona_Barrio
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hour
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Municipio_Ciudad
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Post_Content
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Widgets bootstrap completed.
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] init_widgets skipped: widgets already bootstrapped.
-[21-Apr-2026 02:22:52 UTC] MEC_OPTIONS: Array
+[21-Apr-2026 03:17:36 UTC] EVENT_STYLE_META: 
+[21-Apr-2026 03:17:36 UTC] EVENT_SINGLE_DESIGN_PAGE: 
+[21-Apr-2026 03:17:36 UTC] MEC_OPTIONS: Array
 (
     [settings] => Array
         (
@@ -4534,9 +4449,9 @@
     [single_style] => builder
 )
 
-[21-Apr-2026 02:22:52 UTC] EVENT_STYLE_META: 
-[21-Apr-2026 02:22:52 UTC] EVENT_SINGLE_DESIGN_PAGE: 
-[21-Apr-2026 02:22:52 UTC] MEC_OPTIONS: Array
+[21-Apr-2026 03:17:36 UTC] EVENT_STYLE_META: 
+[21-Apr-2026 03:17:36 UTC] EVENT_SINGLE_DESIGN_PAGE: 
+[21-Apr-2026 03:17:37 UTC] MEC_OPTIONS: Array
 (
     [settings] => Array
         (
@@ -5276,52 +5191,9 @@
     [single_style] => builder
 )
 
-[21-Apr-2026 02:22:52 UTC] EVENT_STYLE_META: 
-[21-Apr-2026 02:22:52 UTC] EVENT_SINGLE_DESIGN_PAGE: 
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] init_widgets_legacy called.
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] init_widgets called with manager: Elementor\Widgets_Manager
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Title
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Category
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cancellation
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Breadcrumbs
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Booking
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Banner
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Attendees
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Featured_Image
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Export
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Event_Gallery
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Date
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Countdown
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Cost
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Location
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Local_Time
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Label
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hourly_Schedule
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_GoogleMap
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Custom_Data
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Public_Download
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Organizer
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Nxt_Prv
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Next_Pervious
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_More_Info
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Faq
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Register_Button
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_QR
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Speaker
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zoom_Event
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Weather
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Virtual_Event
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Trailer_URL
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Tags
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Lugar_Establecimiento
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Limite_Edad
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Zona_Barrio
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Hour
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Municipio_Ciudad
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Registered widget via register(): \QPH_MEC_Single_Builder\Widgets\ESB_Post_Content
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] Widgets bootstrap completed.
-[21-Apr-2026 02:22:52 UTC] [QPH ESB] init_widgets skipped: widgets already bootstrapped.
-[21-Apr-2026 02:22:56 UTC] MEC_OPTIONS: Array
+[21-Apr-2026 03:17:37 UTC] EVENT_STYLE_META: 
+[21-Apr-2026 03:17:37 UTC] EVENT_SINGLE_DESIGN_PAGE: 
+[21-Apr-2026 03:17:46 UTC] MEC_OPTIONS: Array
 (
     [settings] => Array
         (
@@ -6061,9 +5933,9 @@
     [single_style] => builder
 )
 
-[21-Apr-2026 02:22:56 UTC] EVENT_STYLE_META: 
-[21-Apr-2026 02:22:56 UTC] EVENT_SINGLE_DESIGN_PAGE: 
-[21-Apr-2026 02:22:56 UTC] MEC_OPTIONS: Array
+[21-Apr-2026 03:17:46 UTC] EVENT_STYLE_META: 
+[21-Apr-2026 03:17:46 UTC] EVENT_SINGLE_DESIGN_PAGE: 
+[21-Apr-2026 03:17:47 UTC] MEC_OPTIONS: Array
 (
     [settings] => Array
         (
@@ -6803,5 +6675,5 @@
     [single_style] => builder
 )
 
-[21-Apr-2026 02:22:56 UTC] EVENT_STYLE_META: 
-[21-Apr-2026 02:22:56 UTC] EVENT_SINGLE_DESIGN_PAGE: 
+[21-Apr-2026 03:17:47 UTC] EVENT_STYLE_META: 
+[21-Apr-2026 03:17:47 UTC] EVENT_SINGLE_DESIGN_PAGE: 
