@@ -1,60 +1,22 @@
-Uncaught Exception: DateTimeZone::__construct(): Unknown or bad timezone (global)
-in /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-local-time.php on line 35
+/** * Inicializar hooks (ACTUALIZADO - añadir al método init_hooks) */ private function init_hooks() { // === EXISTENTES === add_action( 'elementor/documents/register', array( $this, 'register_document' ) ); add_action( 'elementor/widgets/register', array( $this, 'register_widgets' ) ); add_action( 'elementor/dynamic_tags/register', array( $this, 'register_dynamic_tags' ) ); add_action( 'elementor/elements/categories_registered', array( $this, 'register_widget_category' ) ); add_action( 'admin_enqueue_scripts', array( $this, 'admin_enqueue_scripts' ) ); add_action( 'wp_enqueue_scripts', array( $this, 'frontend_enqueue_scripts' ) ); add_action( 'elementor/preview/init', array( $this, 'init_preview' ) ); add_filter( 'single_template', array( $this, 'override_single_template' ), 99 ); add_action( 'add_meta_boxes', array( $this, 'add_template_meta_box' ) ); add_action( 'admin_menu', array( $this, 'add_admin_menu' ), 99 ); add_action( 'wp_ajax_qph_mec_get_preview_event', array( $this, 'ajax_get_preview_event' ) ); add_action( 'elementor/editor/after_save', array( $this, 'save_template_assignment' ), 10, 2 ); // === NUEVO: Inicializar compatibilidad MEC === add_action( 'init', array( $this, 'init_mec_compatibility' ), 20 ); } /** * Inicializar compatibilidad MEC */ public function init_mec_compatibility() { require_once QPH_MEC_BUILDER_PATH . 'includes/mec/class-mec-helper.php'; require_once QPH_MEC_BUILDER_PATH . 'includes/mec/class-mec-recurring.php'; require_once QPH_MEC_BUILDER_PATH . 'includes/mec/class-mec-timezone.php'; require_once QPH_MEC_BUILDER_PATH . 'includes/mec/class-mec-booking.php'; require_once QPH_MEC_BUILDER_PATH . 'includes/mec/class-mec-fields.php'; require_once QPH_MEC_BUILDER_PATH . 'includes/mec/class-mec-compatibility.php'; \QPH_MEC_Builder\MEC\MEC_Compatibility::init(); } /** * Actualización del método register_widgets (COMPLETO) */ public function register_widgets( $widgets_manager ) { require_once QPH_MEC_BUILDER_PATH . 'widgets/class-widget-base.php'; $widgets = array( // Básicos 'event-title' => 'Widget_Event_Title', 'event-image' => 'Widget_Event_Image', 'event-content' => 'Widget_Event_Content', 'event-button' => 'Widget_Event_Button', 'event-qr' => 'Widget_Event_QR', // Fecha y tiempo 'event-date' => 'Widget_Event_Date', 'event-time' => 'Widget_Event_Time', 'event-countdown' => 'Widget_Event_Countdown', 'event-recurring' => 'Widget_Event_Recurring', 'event-timezone' => 'Widget_Event_Timezone', // Ubicación 'event-location' => 'Widget_Event_Location', 'event-venue' => 'Widget_Event_Venue', 'event-city' => 'Widget_Event_City', 'event-zone' => 'Widget_Event_Zone', 'event-map' => 'Widget_Event_Map', // Personas 'event-organizer' => 'Widget_Event_Organizer', // Categorías 'event-categories' => 'Widget_Event_Categories', // Precio y booking 'event-price' => 'Widget_Event_Price', 'event-age' => 'Widget_Event_Age', 'event-tickets' => 'Widget_Event_Tickets', 'event-booking' => 'Widget_Event_Booking', ); foreach ( $widgets as $file => $class_name ) { $file_path = QPH_MEC_BUILDER_PATH . 'widgets/class-' . $file . '.php'; if ( file_exists( $file_path ) ) { require_once $file_path; $full_class = '\\QPH_MEC_Builder\\Widgets\\' . $class_name; if ( class_exists( $full_class ) ) { $widgets_manager->register( new $full_class() ); } } } } /** * Actualizar get_event_data para usar MEC_Helper */ public static function get_event_data( $post_id = null ) { // Si MEC_Helper ya está cargado, usarlo directamente if ( class_exists( '\\QPH_MEC_Builder\\MEC\\MEC_Helper' ) ) { return \QPH_MEC_Builder\MEC\MEC_Helper::get_full_event_data( $post_id ); } // Fallback al método original if ( ! $post_id ) { $post_id = self::get_current_event_id(); } if ( ! $post_id ) { return array(); } return get_post_meta( $post_id ); }
+Uncaught Error: Class "QPH_MEC_Builder\Plugin" not found
+in /home/u157105617/domains/quepasahoy.com.co/public_html/wp-content/plugins/Elementor QPH Single Builder for MEC v5/elementor-qph-single-builder-mec.php on line 92
 
 Call stack:
 
-DateTimeZone::__construct()
-wp-content/plugins/Elementor QPH Single Builder for MEC/inc/admin/widgets/class-esb-local-time.php:35
-QPH_MEC_Single_Builder\Widgets\ESB_Local_Time::render()
-wp-content/plugins/elementor/includes/base/controls-stack.php:2374
-Elementor\Controls_Stack::render_by_mode()
-wp-content/plugins/elementor/includes/base/widget-base.php:636
-Elementor\Widget_Base::render_content()
-wp-content/plugins/elementor/includes/base/widget-base.php:757
-Elementor\Widget_Base::get_raw_data()
-wp-content/plugins/elementor/includes/base/element-base.php:629
-Elementor\Element_Base::get_raw_data()
-wp-content/plugins/elementor/core/base/document.php:1105
-Elementor\Core\Base\Document::get_elements_raw_data()
-wp-content/plugins/elementor/core/base/document.php:738
-Elementor\Core\Base\Document::get_initial_config()
-wp-content/plugins/elementor/includes/base/controls-stack.php:1071
-Elementor\Controls_Stack::get_config()
-wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php:40
-Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
-wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php:172
-Elementor\Core\Editor\Loader\V2\Editor_V2_Loader::enqueue_scripts()
-wp-content/plugins/elementor/core/editor/editor.php:355
-Elementor\Core\Editor\Editor::enqueue_scripts()
+qph_mec_builder_init()
 wp-includes/class-wp-hook.php:341
 WP_Hook::apply_filters()
 wp-includes/class-wp-hook.php:365
 WP_Hook::do_action()
 wp-includes/plugin.php:522
 do_action()
-wp-includes/script-loader.php:2311
-wp_enqueue_scripts()
-wp-includes/class-wp-hook.php:341
-WP_Hook::apply_filters()
-wp-includes/class-wp-hook.php:365
-WP_Hook::do_action()
-wp-includes/plugin.php:522
-do_action()
-wp-includes/general-template.php:3197
-wp_head()
-wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php:35
-include('/home/u157105617/dom...s/editor-wrapper.php')
-wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php:222
-Elementor\Core\Editor\Loader\V2\Editor_V2_Loader::print_root_template()
-wp-content/plugins/elementor/core/editor/editor.php:160
-Elementor\Core\Editor\Editor::init()
-wp-includes/class-wp-hook.php:341
-WP_Hook::apply_filters()
-wp-includes/class-wp-hook.php:365
-WP_Hook::do_action()
-wp-includes/plugin.php:522
-do_action()
-wp-admin/admin.php:424
+wp-settings.php:593
+require_once('/home/u157105617/dom...html/wp-settings.php')
+wp-config.php:122
+require_once('/home/u157105617/dom...c_html/wp-config.php')
+wp-load.php:50
+require_once('/home/u157105617/dom...lic_html/wp-load.php')
+wp-admin/admin.php:35
 require_once('/home/u157105617/dom...l/wp-admin/admin.php')
-wp-admin/post.php:12
-Query Monitor
+wp-admin/plugins.php:10
